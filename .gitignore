@@ -1,0 +1,27 @@
+# MATLAB & Simulink Generated / Autosave Files
+*.asv
+*.slx.autosave
+*.autosave
+*.m~
+*.mat~
+slprj/
+
+# Large External Benchmark Datasets (>700MB, not used by core scripts)
+PV_Dataset/
+
+# Redundant Archives (unzipped folder exists)
+*.zip
+
+# Unrelated files in workspace
+The_Cancer_data_1500_V2.csv
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
