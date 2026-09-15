@@ -1,0 +1,19 @@
+
+Procedure to simulate the proposed simulink model:
+
+1- Launch the file "PV_SYSTEM_WITH_VARIOUS_MPPT.slx" or "Particle_swarm_based_PV_MPPT.slx" with MATLAB software.
+2- Launch the file "parameters.mat" from MATLAB.
+3- Anyone can edit and share this work.
+
+-----------------------------------------------------------------------------------
+Ahmed BOUHOUTA
+Research Laboratory of Electrical Engineering and Automatic (LREA)
+University of Medea, Algeria 
+Chief Engineer officer for Arzew port company
+Expert in HVAC systems                                        
+E-mail:bouhouta.ahmed@gmail.com
+       bouhouta.ahmed@univ-medea.dz
+
+https://www.researchgate.net/profile/Ahmed-Bouhouta
+https://www.facebook.com/groups/744618945734304
+https://t.me/ElectricalEngineeringGates
